@@ -1,5 +1,4 @@
 7ec7d5a32ca1fe05cc34d0 |2022.12.31.23.00| test
 3a0dcfb2ee8e2428ffe604 |2022.12.31.23.30| test-slava
-a201e2bdaca9f5f0687923 |2023.01.02.16.00| SirgayFirsov
 932a654be4434f4b5efc56 |2023.01.02.19.00| KalovoZ
 3f9bcd90bdc7f393c45bef |2023.01.05.18.00| Pakoed
