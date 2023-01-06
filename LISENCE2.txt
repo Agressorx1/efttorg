@@ -1,3 +1,2 @@
-7ec7d5a32ca1fe05cc34d0 |2022.12.31.23.00| test
-3a0dcfb2ee8e2428ffe604 |2022.12.31.23.30| test-slava
-3f9bcd90bdc7f393c45bef |2023.01.05.18.00| Pakoed
+7ec7d5a32ca1fe05cc34d0 |2023.12.31.23.00| Admin
+3a0dcfb2ee8e2428ffe604 |2023.12.31.23.30| Admin-slava
